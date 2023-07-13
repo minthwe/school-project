@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #1cd8d2;
+        font-family: Futura-CondensedMedium, Futura;
+        font-size: 359.91px;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1296.08" y1="920.18" x2="1206.64" y2="121.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#93edc7"/>
+      <stop offset="1" stop-color="#1cd8d2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="793.36" y1="1412.48" x2="703.92" y2="613.53" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <path class="cls-1" d="m834.72,971.82l535.49-129c20.34-4.9,36.78-19.82,43.63-39.59l254.16-733.66-833.28,902.24Z"/>
+    <path class="cls-4" d="m624.99,692.04c-17.35,4.18-31.37,16.9-37.21,33.77l-255.77,738.32,833.28-902.24-540.29,130.16Z"/>
+  </g>
+  <text class="cls-3" transform="translate(86.16 1828.84)"><tspan class="cls-2" x="0" y="0">A</tspan><tspan class="cls-5" x="144.28" y="0">CTIVE LIFE HUB</tspan></text>
+</svg>
