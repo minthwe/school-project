@@ -57,7 +57,15 @@
     left: 10%;
     transform: translate(-50%, -50%);
   }
-
+  @media (max-width: 767px) {
+    .btn-overlap {
+      position: absolute;
+      top: 50%;
+      left: 15%;
+      transform: translate(-50%, -50%);
+    }
+  }
+  
 
   .header-slider {
     padding: 20px; 
@@ -73,6 +81,7 @@
     max-width: 12.5%;
     padding: 5px;
   }
+
 /* about-us  */
   .background-dark{
     background: var(--bg-color);
@@ -94,6 +103,32 @@
     font-style: normal;
     font-weight: 500;
     line-height: 163.9%;
+  }
+
+  @media (max-width: 767px) {
+    .about-us-title{
+      padding: 10px;
+    }
+    .margin-top-zero{
+      margin-top: 0px;
+    }
+    .subscribe-title{
+      
+    }
+    .about-us-paragraph
+  {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--white, #FFF);
+    font-family: Futura;
+    font-size: 15px;
+    padding:10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150.9%;
+  }
+
   }
 /* about-us end */
 
@@ -189,7 +224,7 @@ height: 700.43px;
 .btn-bottom {
   position: absolute;
   bottom: 10%;
-  width: 83%;
+  width: 78%;
   border-radius: 15px;
   height: 62.372px;
 
