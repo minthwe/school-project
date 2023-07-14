@@ -4,6 +4,13 @@
     --accent-color: #0000FF;
     --bg-color: #141414;
   }
+  @font-face {
+    font-family: 'Futura';
+    src: url('/font/futur.ttf') format('ttf'),
+         url('/font/Futura\ Bold\ font.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
   body {
     font-family: 'Futura', sans-serif;
   }
@@ -131,6 +138,7 @@
 
 .blog-margin{
   margin-top: 2%;
+  padding: 0px;
 }
   .blog-text{
     display: flex;
