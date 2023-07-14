@@ -6,8 +6,8 @@
   }
   @font-face {
     font-family: 'Futura';
-    src: url('/font/futur.ttf') format('ttf'),
-         url('/font/Futura\ Bold\ font.ttf') format('ttf');
+    src: url('font/futur.ttf') format('ttf'),
+         url('font/Futura\ Bold\ font.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
