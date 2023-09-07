@@ -6,8 +6,8 @@
   }
   @font-face {
     font-family: 'Futura';
-    src: url("https://cdn.jsdelivr.net/npm/futura-font@1.0.0/styles.min.css") format('ttf'),
-         url("https://cdn.jsdelivr.net/npm/futura-font@1.0.0/styles.min.css") format('ttf');
+    src: url("font/futur.ttf") format('ttf');
+         /* url("https://cdn.jsdelivr.net/npm/futura-font@1.0.0/styles.min.css") format('ttf'); */
     font-weight: normal;
     font-style: normal;
   }
